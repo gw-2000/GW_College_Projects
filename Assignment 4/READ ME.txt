@@ -1,0 +1,1 @@
+This assignment involved the design of a Palindrome checker. Recommended running in IDLE.
