@@ -1,5 +1,0 @@
-**The files included are part of the final assignment completed for the Introduction to Programming II module undertaken in UCD in 2019.**
-
-"OrchestralManoeversInDataScience" includes a number of csv. files which were imported into Jupyter Notebook for manipulation.
-
-"Lab3 - New York Philharmonic Data Science-checkpoint.ipynb" is a jupyter notebook python file which includes the code used.
