@@ -1,0 +1,3 @@
+This is an assignment undertaken for the Intro to Programming I module in UCD.
+
+This assignment involved taking a list of numbers in a file, and simply reorganising to display in ascending order. 
