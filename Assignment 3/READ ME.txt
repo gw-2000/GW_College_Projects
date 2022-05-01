@@ -1,0 +1,3 @@
+This was an assignment competeted for the module Intro to Programming I in UCD.
+
+The assignment involves the use of pyhton to perform a simple calculation, present the output and ask the user if they would like to retry.
